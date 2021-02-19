@@ -1,0 +1,90 @@
+.header{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content{
+    background-color: peachpuff;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*.camel{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.a{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chameleon{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.b{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pigeon{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.c{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.bear{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.d{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.panda{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.e{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cicada{
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.f{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+}
+*/
